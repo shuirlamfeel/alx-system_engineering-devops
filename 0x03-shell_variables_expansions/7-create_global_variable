@@ -1,2 +1,2 @@
 #!/bin/bash
-foo () { Name="HOLBERTON" ; Value="Betty" }
+foo () { Name="HOLBERTON" , Value="Betty" }
