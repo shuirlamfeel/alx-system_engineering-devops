@@ -1,4 +1,4 @@
 #!/bin/bash
-foo () { Name="ANY" 
-Value="Value"
+foo () { Name="BETTY" 
+Value="Value="Holberton"
 }
