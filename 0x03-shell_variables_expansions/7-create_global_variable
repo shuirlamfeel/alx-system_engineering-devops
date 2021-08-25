@@ -1,2 +1,2 @@
 #!/bin/bash
-alias HOLBERTON="Betty"
+foo () { Name="HOLBERTON" ; Value="Betty" }
