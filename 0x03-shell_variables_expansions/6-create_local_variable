@@ -1,4 +1,2 @@
 #!/bin/bash
-foo () { Name="BETTY" 
-Value="Value="Holberton"
-}
+var BETTY = "Holberton"
