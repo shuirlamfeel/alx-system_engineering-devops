@@ -1,2 +1,4 @@
 #!/bin/bash
-HOLBERTON=Betty
+foo () { Name="ANY" 
+Value="Value"
+}
